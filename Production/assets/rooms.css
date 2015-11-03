@@ -1,0 +1,17 @@
+#rooms {
+  max-width: 100vw;
+  min-height: 100vh;
+  background-color: #e74c3c; }
+  #rooms img {
+    padding-top: 20px; }
+  #rooms p {
+    margin-top: 2vh;
+    text-align: center;
+    font-family: inherit;
+    font-weight: 100;
+    font-size: 1.5vw;
+    color: #f1c40f; }
+  #rooms ul {
+    margin-left: 40%;
+    color: #FFF;
+    font-size: 2vw; }

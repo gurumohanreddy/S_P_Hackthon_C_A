@@ -1,0 +1,25 @@
+#home{
+width:100vw;
+height: 100vh;
+background-image: url('../image/main.jpg');
+background-repeat:no-repeat;
+background-position: center;
+.navbar-default, .navbar{
+  border-radius: 0;
+  border: none;
+
+  }
+ul {
+    list-style-type: none;
+    margin:0;
+    padding:0;
+      a{
+        margin-left: 4vw;
+        font-weight: 100;
+        display: block;
+        width:16vw;
+        float:right;
+        color:#2c3e50;
+      }
+    }
+}

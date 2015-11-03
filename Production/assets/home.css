@@ -1,0 +1,20 @@
+#home {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../image/main.jpg");
+  background-repeat: no-repeat;
+  background-position: center; }
+  #home .navbar-default, #home .navbar {
+    border-radius: 0;
+    border: none; }
+  #home ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0; }
+    #home ul a {
+      margin-left: 4vw;
+      font-weight: 100;
+      display: block;
+      width: 16vw;
+      float: right;
+      color: #2c3e50; }
